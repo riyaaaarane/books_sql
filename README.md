@@ -8,7 +8,7 @@ The project uses three datasets — `Books.csv`, `Customers.csv`, and `Orders.cs
 
 ## 🎯 Objectives  
 - Clean and analyze raw bookstore data using SQL.  
-- Build an **interactive Power BI dashboard** for sales and customer insights.  
+- Build an **interactive Power BI dashboard** for sales, customer, author and book insights.  
 - Identify best-selling genres, top customers, and revenue trends.  
 - Present business insights in a visually engaging and interactive format.
 
@@ -24,10 +24,21 @@ The project uses three datasets — `Books.csv`, `Customers.csv`, and `Orders.cs
 
 ---
 ## Summary Dashboard
-<img width="900" height="501" alt="image" src="https://github.com/user-attachments/assets/54a6650a-02f0-45f0-941e-5c858e99d9dc" />
+<img width="769" height="431" alt="main-dash" src="https://github.com/user-attachments/assets/2fe8499f-c95a-4b04-89ed-3e58ea0ddd33" />
+
 
 ## Customer Insights Dashboard
-<img width="897" height="476" alt="image" src="https://github.com/user-attachments/assets/86b65b82-0e75-46ee-adff-03e6c51260b8" />
+<img width="765" height="434" alt="customer-dash" src="https://github.com/user-attachments/assets/382db85a-c3e5-44d4-94a1-67b0c4c83dd2" />
+
+
+## Author Insights Dashboard
+<img width="767" height="434" alt="author-dash" src="https://github.com/user-attachments/assets/ce053224-0b47-4c71-93a3-fb4ff294b226" />
+
+
+## Book Insights Dashboard
+<img width="768" height="433" alt="books-dash" src="https://github.com/user-attachments/assets/53548cc4-a64a-4561-b977-c830dda9a806" />
+
+
 
 ---
 ## 🚀 Outcome
