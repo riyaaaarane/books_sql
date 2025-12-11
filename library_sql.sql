@@ -42,10 +42,21 @@ select genre, count(title)  as no_of_books
 from books
 group by genre;
 
--- cutomers from canada
+-- customers from canada
 
 select * from customers 
 where country = 'canada';
+
+-- top countries
+
+select country , count(Name) as no_of_people 
+from customers 
+group by country
+order by no_of_people desc limit 5;
+
+-- customers name starting from s
+
+select * from customers where Name like 'S%' ; 
 
 -- show orders placed in nov 2023
 
