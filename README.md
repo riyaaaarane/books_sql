@@ -24,19 +24,23 @@ The project uses three datasets — `Books.csv`, `Customers.csv`, and `Orders.cs
 
 ---
 ## Summary Dashboard
-<img width="769" height="431" alt="main-dash" src="https://github.com/user-attachments/assets/2fe8499f-c95a-4b04-89ed-3e58ea0ddd33" />
+<img width="899" height="507" alt="image" src="https://github.com/user-attachments/assets/4f89fc8c-d0de-475c-b571-d6445ec64bb8" />
+
 
 
 ## Customer Insights Dashboard
-<img width="765" height="434" alt="customer-dash" src="https://github.com/user-attachments/assets/382db85a-c3e5-44d4-94a1-67b0c4c83dd2" />
+<img width="902" height="510" alt="image" src="https://github.com/user-attachments/assets/f3044346-f905-4a85-92fd-812512f807ea" />
+
 
 
 ## Author Insights Dashboard
-<img width="767" height="434" alt="author-dash" src="https://github.com/user-attachments/assets/ce053224-0b47-4c71-93a3-fb4ff294b226" />
+<img width="902" height="509" alt="image" src="https://github.com/user-attachments/assets/761cc6d6-f430-4622-87ce-0cf00f1dd8a6" />
+
 
 
 ## Book Insights Dashboard
-<img width="768" height="433" alt="books-dash" src="https://github.com/user-attachments/assets/53548cc4-a64a-4561-b977-c830dda9a806" />
+<img width="904" height="509" alt="image" src="https://github.com/user-attachments/assets/fd8e2c9c-0fd0-433c-9ff2-c046afb615a5" />
+
 
 
 
