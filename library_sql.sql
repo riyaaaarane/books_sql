@@ -30,6 +30,18 @@ select sum(Total_Amount) as total_revenue from orders;
 select * from books 
 where Published_Year >= 1950;
 
+-- Authors having book more than one
+
+select author , count(title) from books
+group by author
+having count(title) > 1 ;
+
+-- Total number of books in each genre
+
+select genre, count(title)  as no_of_books 
+from books
+group by genre;
+
 -- cutomers from canada
 
 select * from customers 
